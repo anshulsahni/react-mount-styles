@@ -1,0 +1,19 @@
+{
+  "name": "react-mount-styles",
+  "version": "1.0.0",
+  "description": "react module to mount css in modulary way (based on the blog Julian Viereck on MSS no medium.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anshulsahni/react-mount-styles.git"
+  },
+  "author": "Anshul Sahni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshulsahni/react-mount-styles/issues"
+  },
+  "homepage": "https://github.com/anshulsahni/react-mount-styles#readme"
+}
