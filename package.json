@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/anshulsahni/react-mount-styles/issues"
   },
-  "homepage": "https://github.com/anshulsahni/react-mount-styles#readme"
+  "homepage": "https://github.com/anshulsahni/react-mount-styles#readme",
+  "dependencies": {
+    "lodash": "^4.16.6"
+  }
 }
