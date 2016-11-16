@@ -18,5 +18,8 @@
   "homepage": "https://github.com/anshulsahni/react-mount-styles#readme",
   "dependencies": {
     "lodash": "^4.16.6"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
   }
 }
