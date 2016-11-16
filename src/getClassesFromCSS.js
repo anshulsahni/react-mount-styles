@@ -4,6 +4,6 @@ const CLASS_PATTERN = /\.\w+\s?\{/g;
 
 module.exports = function(css) {
   return _.map(css.match(CLASS_PATTERN), function(patternMatch) {
-    return _.word(_.join(_.tail(patternMatch)));
+    return _.words(_.join(_.tail(patternMatch), ''));
   });
 }
