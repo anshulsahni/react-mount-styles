@@ -7,4 +7,4 @@ const mountCSSToDocument = function(CSSContent) {
   document.head.appendChild(style);
 };
 
-modul.exports = mountCSSToDocument;
+module.exports = mountCSSToDocument;

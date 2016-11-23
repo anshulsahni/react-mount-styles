@@ -16,6 +16,7 @@ module.exports = function() {
 
     var cssClassRegExp = new RegExp(cssClass + '\\s');
     css = replaceOldClassWithNew(css, cssClassRegExp, globalClass);
+
     mountCSSToDocument(css);
     classMap[cssClass] = globalClass;
   });
